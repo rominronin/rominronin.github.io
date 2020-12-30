@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "My first Jekyll post!"
-date:   2020-12-29 015:59:10 +0100
-tags: update jekyll webdev
+title:  "Just another update!"
+date:   2020-12-30 +0100
+tags: update test polio
 ---
 
 I've spent the last few weeks at my in-laws' place. They've had some more time to bond with their new granddaughter, we've had a little more free time as a result - Everybody wins.
