@@ -12,6 +12,7 @@ I will leave the default Jekyll post untouched until I am a little more familiar
 
 Getting this site up before the end of the year would be great, looks like that's a realistic goal.
 
+
 {% for tag in site.tags %}
   <h3>{{ tag[0] }}</h3>
   <ul>
