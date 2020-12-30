@@ -2,7 +2,7 @@
 layout: post
 title:  "Just another update!"
 date:   2020-12-30 +0100
-tags: update test polio
+tags: update jekyll webdev
 ---
 
 I've spent the last few weeks at my in-laws' place. They've had some more time to bond with their new granddaughter, we've had a little more free time as a result - Everybody wins.
