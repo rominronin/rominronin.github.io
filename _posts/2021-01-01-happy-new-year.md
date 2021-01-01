@@ -1,8 +1,8 @@
 ---
 layout: post
-title:  "Just another update!"
+title:  "Nappy new year!"
 date:   2021-01-01
-tags: update new-year classical
+tags: update new-year music father
 ---
 
 The best thing about living in Vienna as a fan of music is the New Year's Concert every year on January first. The finest classical orchestra in the world (probably) broadcasts a live concert on TV. I routinely tidy the house and sit myself on our ouch to watch it, this ensures that however the last year ends, the new one always has a happy start!
