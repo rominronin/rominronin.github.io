@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "(Re)discovering offset guitars"
-date:   2023-06-10
+date:   2023-06-11
 tags: update music guitar
 ---
 
