@@ -3,7 +3,7 @@ layout: post
 title:  "(Re)discovering my website"
 date:   2023-06-18
 tags: update website
-header_image_url: /images/jekyll-framework.png
+header_image_url: /images/2023/jekyll-framework.png
 header_image_alt: "A screenshot showing the navigation bar of the jekyll framework homepage."
 ---
 

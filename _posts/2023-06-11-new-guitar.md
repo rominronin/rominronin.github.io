@@ -3,7 +3,7 @@ layout: post
 title:  "(Re)discovering offset guitars"
 date:   2023-06-11
 tags: update music guitar
-header_image_url: /images/bullet-mustang.jpeg
+header_image_url: /images/2023/bullet-mustang.jpeg
 header_image_alt: "Landscape image of my Bullet Mustang, in sonic gray colour, the image is hanging on a wall, but has been rotated to fit the landscape format."
 ---
 
