@@ -3,13 +3,13 @@
 <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>HydePHP - About</title>
+<title>rominronin - About</title>
 
 
 
-<link rel="canonical" href="http://localhost/about.html">
-<meta name="twitter:title" content="HydePHP - About">
-<meta property="og:title" content="HydePHP - About">
+<link rel="canonical" href="http://localhost/about">
+<meta name="twitter:title" content="rominronin - About">
+<meta property="og:title" content="rominronin - About">
 
 
 <link rel="sitemap" href="http://localhost/sitemap.xml" type="application/xml" title="Sitemap">
@@ -36,8 +36,8 @@
 <body id="app" class="flex flex-col min-h-screen overflow-x-hidden dark:bg-gray-900 dark:text-white" x-data="{ navigationOpen: false }" x-on:keydown.escape="navigationOpen = false;">
     <a href="#content" id="skip-to-content" class="sr-only focus:not-sr-only bg-black border-4 border-yellow-400 focus:absolute focus:mt-2 focus:mx-auto focus:p-2 focus:w-64 h-auto left-0 overflow-auto right-0 rounded-md text-center text-lg text-white top-auto z-50 ">Skip to content</a>    <nav aria-label="Main navigation" id="main-navigation" class="flex flex-wrap items-center justify-between p-4 shadow-lg sm:shadow-xl md:shadow-none dark:bg-gray-800">
     <div class="flex flex-grow items-center flex-shrink-0 text-gray-700 dark:text-gray-200">
-        <a href="index.html" class="font-bold px-4" aria-label="Home page">
-    HydePHP
+        <a href="./" class="font-bold px-4" aria-label="Home page">
+    rominronin
 </a>
         <div class="ml-auto">
             <button @click="toggleTheme" class="theme-toggle-button flex items-center px-2 py-1 hover:text-gray-700 dark:text-gray-200" title="Toggle theme">
@@ -71,9 +71,9 @@
          :class="navigationOpen ? '' : 'hidden'" x-cloak>
         <ul aria-label="Navigation links" class="md:flex-grow md:flex justify-end">
                             <li class="md:mx-2">
-                                            <a href="index.html"  class="block my-2 md:my-0 md:inline-block py-1 text-gray-700 hover:text-gray-900 dark:text-gray-100">Home</a>                                    </li>
+                                            <a href="./"  class="block my-2 md:my-0 md:inline-block py-1 text-gray-700 hover:text-gray-900 dark:text-gray-100">Home</a>                                    </li>
                             <li class="md:mx-2">
-                                            <a href="about.html" aria-current="page" class="block my-2 md:my-0 md:inline-block py-1 text-gray-700 hover:text-gray-900 dark:text-gray-100 border-l-4 border-indigo-500 md:border-none font-medium -ml-6 pl-5 md:ml-0 md:pl-0 bg-gray-100 dark:bg-gray-800 md:bg-transparent dark:md:bg-transparent">About</a>                                    </li>
+                                            <a href="about" aria-current="page" class="block my-2 md:my-0 md:inline-block py-1 text-gray-700 hover:text-gray-900 dark:text-gray-100 border-l-4 border-indigo-500 md:border-none font-medium -ml-6 pl-5 md:ml-0 md:pl-0 bg-gray-100 dark:bg-gray-800 md:bg-transparent dark:md:bg-transparent">About</a>                                    </li>
                             <li class="md:mx-2">
                                             <div class="dropdown-container relative" x-data="{ open: false }">
     <button class="dropdown-button block my-2 md:my-0 md:inline-block py-1 text-gray-700 hover:text-gray-900 dark:text-gray-100"
@@ -84,7 +84,7 @@
     <div class="dropdown absolute shadow-lg bg-white dark:bg-gray-700 z-50 right-0" :class="open ? '' : 'hidden'" x-cloak="">
         <ul class="dropdown-items px-3 py-2">
                                                 <li class="whitespace-nowrap">
-                        <a href="docs/index.html"  class="block my-2 md:my-0 md:inline-block py-1 text-gray-700 hover:text-gray-900 dark:text-gray-100">Docs</a>                    </li>
+                        <a href="docs/"  class="block my-2 md:my-0 md:inline-block py-1 text-gray-700 hover:text-gray-900 dark:text-gray-100">Docs</a>                    </li>
                                     </ul>
     </div>
 </div>                                    </li>
@@ -98,6 +98,7 @@
             <h1>About</h1>
 <p>I am Baris Tosun. Web developer, Drupal enthusiast, guitarist, music producer, keyboard builder, physics graduate, karate black belt and father of two.</p>
 <p>This is my website. It is a simple webpage/blog where I want to provide information about some of the projects I spend my free time on.</p>
+<p>This website is build using a tool called HydePHP. Find out more about HydePHP <a href="https://hydephp.com/">here</a></p>
 
         </article>
     </main>
@@ -106,7 +107,7 @@
 
     <footer aria-label="Page footer" class="flex py-4 px-6 w-full text-center mt-auto bg-slate-100 dark:bg-gray-800">
         <div class="prose dark:prose-invert text-center mx-auto">
-            <p>Site proudly built with <a href="https://github.com/hydephp/hyde">HydePHP</a> 🎩</p>
+            <p>Built with <a href="https://github.com/hydephp/hyde">HydePHP</a> 🎩 | See also <a href="https://baristosun.com">baristosun.com</a></p>
 
         </div>
         <a href="#app" aria-label="Go to top of page" class="float-right">
