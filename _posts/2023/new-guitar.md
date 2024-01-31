@@ -6,7 +6,7 @@ author: rominronin
 date:   "2023-06-11"
 tags: update music guitar
 ---
-![Landscape image of my Bullet Mustang, in sonic gray colour, the image is hanging on a wall, but has been rotated to fit the landscape format.](../../media/2023/bullet-mustang.jpg)
+![Landscape image of my Bullet Mustang, in sonic gray colour, the image is hanging on a wall, but has been rotated to fit the landscape format.](../../media/2023/bullet-mustang.jpeg)
 
 Shortly after releasing my album ([Bandcamp](https://breakdown.bandcamp.com), [Spotify](https://open.spotify.com/album/6gAnmY8fi5fAIW1XwG61VS)) I decided to retire my Jag-Stang as my main guitar. The guitar that served me so well, on which many of the songs on the album were written and perfected, would still hang around to play and look nice, but I wanted to take my playing and writing in a new direction and an easy way to explore and discover new music is to start using a new guitar.
 
