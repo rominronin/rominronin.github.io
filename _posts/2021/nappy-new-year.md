@@ -3,9 +3,9 @@ title:  "Nappy new year!"
 description: 'Nappy new year! was migrated from the previous website'
 category: blog
 author: rominronin
-date:   "2021-01-01"
-tags: update new-year music father
+date:   2021-01-01 00:00
 ---
+<sub>tags: update, new-year, music, father</sub>
 
 The best thing about living in Vienna as a fan of music is the New Year's Concert every year on January first. The finest classical orchestra in the world (probably) broadcasts a live concert on TV. I routinely tidy the house and sit myself on our ouch to watch it, this ensures that however the last year ends, the new one always has a happy start!
 

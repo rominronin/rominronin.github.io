@@ -4,8 +4,8 @@ description: 'Just another update! was migrated from the previous website'
 category: blog
 author: rominronin
 date:   "2020-12-30 01:00"
-tags: update jekyll webdev
 ---
+<sub>tags: update, jekyll, webdev</sub>
 
 I've spent the last few weeks at my in-laws' place. They've had some more time to bond with their new granddaughter, we've had a little more free time as a result - Everybody wins.
 
