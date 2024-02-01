@@ -5,7 +5,7 @@ category: blog
 author: rominronin
 date: 2023-06-11 00:00
 image:
-  source: '2023/bullet-mustang.jpeg'
+  source: '2023/bullet-mustang.jpg'
   author: 'rominronin'
   titleText: 'Header image depicting  my Squier Bullet Mustang'
   altText: 'Header image depicting my Squier Bullet Mustang'

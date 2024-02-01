@@ -6,7 +6,7 @@ category: blog
 author: rominronin
 date: 2023-07-01 00:00
 image:
-  source: '2023/banner.jpeg'
+  source: '2023/podcast-cover-image.jpg'
   author: 'rominronin'
   titleText: 'Header image depicting the 8th Passenger podcast cover image'
   altText: 'Header image depicting the 8th Passenger podcast cover image'

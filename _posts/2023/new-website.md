@@ -5,7 +5,7 @@ category: blog
 author: rominronin
 date: 2023-06-18 00:00
 image:
-  source: '2023/jekyll-framework.png'
+  source: '2023/jekyll-framework.jpg'
   author: 'rominronin'
   titleText: 'Header image, a cropped screenshot of the jekyll home page'
   altText: 'Header image, a cropped screenshot of the jekyll home page'
