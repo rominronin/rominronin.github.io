@@ -3,7 +3,7 @@ title:  "(Re)discovering my website"
 description: '(Re)discovering my website was migrated from the previous website'
 category: blog
 author: rominronin
-date:   "2023-06-18 00:00"
+date: 2023-06-18 00:00
 image:
   source: '2023/jekyll-framework.png'
   author: 'rominronin'

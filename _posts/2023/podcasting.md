@@ -4,7 +4,7 @@ title:  "Recording a podcast"
 description: 'Recording a podcast was migrated from the previous website'
 category: blog
 author: rominronin
-date:   "2023-07-01 00:00"
+date: 2023-07-01 00:00
 image:
   source: '2023/banner.jpeg'
   author: 'rominronin'

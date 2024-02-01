@@ -3,7 +3,7 @@ title:  "(Re)discovering offset guitars"
 description: '(Re)discovering offset guitars was migrated from the previous website'
 category: blog
 author: rominronin
-date:   "2023-06-11 00:00"
+date: 2023-06-11 00:00
 image:
   source: '2023/bullet-mustang.jpeg'
   author: 'rominronin'
