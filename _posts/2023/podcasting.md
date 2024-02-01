@@ -4,10 +4,14 @@ title:  "Recording a podcast"
 description: 'Recording a podcast was migrated from the previous website'
 category: blog
 author: rominronin
-date:   "2023-07-01"
-tags: update podcast 8th-passenger
+date:   "2023-07-01 00:00"
+image:
+  source: '2023/banner.jpeg'
+  author: 'rominronin'
+  titleText: 'Header image depicting the 8th Passenger podcast cover image'
+  altText: 'Header image depicting the 8th Passenger podcast cover image'
 ---
-![The podcast splash screen, in twitch banner format](../../media/2023/banner.jpeg)
+<sub>tags: update, podcast, 8th-passenger</sub>
 
 # Eighth Passenger Podcast
 I started a podcsast on the Alien films (Ridley Scott, James Cameron etc.). My fellow co-host and I talk through the plot, highlight scenes and performances of note, themes and other related topics - we often dive deep into nerdy tangets too!

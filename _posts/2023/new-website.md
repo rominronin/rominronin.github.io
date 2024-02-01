@@ -3,12 +3,15 @@ title:  "(Re)discovering my website"
 description: '(Re)discovering my website was migrated from the previous website'
 category: blog
 author: rominronin
-date:   "2023-06-18"
-tags: update website
+date:   "2023-06-18 00:00"
+image:
+  source: '2023/jekyll-framework.png'
+  author: 'rominronin'
+  titleText: 'Header image, a cropped screenshot of the jekyll home page'
+  altText: 'Header image, a cropped screenshot of the jekyll home page'
 ---
-![A screenshot showing the navigation bar of the jekyll framework homepage.](../../media/2023/jekyll-framework.png)
-
-# Preamble
+<sub>tags: update, website</sub>
+## Preamble
 Last week's guitar post came about when I rediscovered my website in a rare bout of free time. Since then I've had plenty of time to muse over why I always wanted a website but could never make one 'work'.
 
 Knowing if something has worked or not also requires me to define what that means. What do I want to achieve with a website? To me that has almost always been clear: to collect the content related to my various hobbies into one central place:
@@ -24,7 +27,7 @@ I'm trying to think in a solution oriented manner though. The last time I tried 
 
 This simplicity is vital because it means I can focus the pockets of free time on writing, which in turn should result in omore (blogging) productivity, as evidenced by a rather unplanned stream of consciousness that resulted in ([this post last week](https://rominronin.github.io/2023/06/11/new-guitar.html)).
 
-# New website
+## New website
 Despite the challenges of parenting two children, my life is more settled than it has probably ever been (I'll no doubt run that thought through my mind in the coming days too). Which is partly why I feel that now is the right time to start writing things down.
 
 This site was a result of following some tutorials on static site generators, but I would also like to improve the styling and usability, so I decided to work on a new theme to replace the default 'minima' theme. I've long been interested in the [Tailwind CSS framework](https://tailwindcss.com) and it seems like a great way to get to learn it would be to use it for my own site.
