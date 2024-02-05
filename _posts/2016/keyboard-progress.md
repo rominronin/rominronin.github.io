@@ -1,11 +1,9 @@
 ---
 title: "Keyboard Progress"
-navigation:
-    label: "Keyboard Progress"
-    group: "Keyboards"
-    hidden: false
-    priority: 3
-
+description: ''
+category: keyboards
+author: rominronin
+date: "2016-02-18 00:00"
 ---
 # Keyboard Progress
 ![Keyboard progress: fig 01](../../media/2016-02/01.jpg "Keyboard progress: fig 01")
