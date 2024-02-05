@@ -3,13 +3,13 @@
 <head>
     <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>rominronin - Keyboard Progress</title>
+<title>rominronin - My guitars</title>
 
 
 
-<link rel="canonical" href="http://localhost/docs/keyboard-progress">
-<meta name="twitter:title" content="rominronin - Keyboard Progress">
-<meta property="og:title" content="rominronin - Keyboard Progress">
+<link rel="canonical" href="http://localhost/docs/my-guitars">
+<meta name="twitter:title" content="rominronin - My guitars">
+<meta property="og:title" content="rominronin - My guitars">
 
 
 <link rel="sitemap" href="http://localhost/sitemap.xml" type="application/xml" title="Sitemap">
@@ -74,7 +74,7 @@
 </div>    </header>
     <nav id="sidebar-navigation" class="p-2 overflow-y-auto border-y border-gray-300 dark:border-[#1b2533] h-full">
         <ul id="sidebar-items" role="list">
-                            <li class="sidebar-group" role="listitem"  x-data="{ groupOpen: true }" >
+                            <li class="sidebar-group" role="listitem"  x-data="{ groupOpen: false }" >
                 <header class="sidebar-group-header p-2 px-4 -ml-2 flex justify-between items-center  group hover:bg-black/10 "  @click="groupOpen = ! groupOpen" >
                     <h4 class="sidebar-group-heading text-base font-semibold  cursor-pointer dark:group-hover:text-white ">Keyboards</h4>
                                             <button class="sidebar-group-toggle opacity-50 group-hover:opacity-100">
@@ -94,14 +94,7 @@
             <a href="../docs/katana60" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
             Katana60
         </a>
-    </li>                                            <li class="sidebar-item -ml-4 pl-4 active -ml-8 pl-8 bg-black/5 dark:bg-black/10" role="listitem">
-            <a href="../docs/keyboard-progress" aria-current="true" class="-ml-8 pl-4 py-1 px-2 block text-indigo-600 dark:text-indigo-400 dark:font-medium border-l-[0.325rem] border-indigo-500 transition-colors duration-300 ease-in-out hover:bg-black/10">
-            Keyboard Progress
-        </a>
-
-                    <span class="sr-only">Table of contents</span>
-            
-            </li>                                            <li class="sidebar-item -ml-4 pl-4" role="listitem">
+    </li>                                            <li class="sidebar-item -ml-4 pl-4" role="listitem">
             <a href="../docs/katana60-pro" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
             Katana60 Pro
         </a>
@@ -110,6 +103,27 @@
             Tsuka60 Pro
         </a>
     </li>                                    </ul>
+            </li>
+                    <li class="sidebar-group" role="listitem"  x-data="{ groupOpen: true }" >
+                <header class="sidebar-group-header p-2 px-4 -ml-2 flex justify-between items-center  group hover:bg-black/10 "  @click="groupOpen = ! groupOpen" >
+                    <h4 class="sidebar-group-heading text-base font-semibold  cursor-pointer dark:group-hover:text-white ">My Guitars</h4>
+                                            <button class="sidebar-group-toggle opacity-50 group-hover:opacity-100">
+    <svg class="sidebar-group-toggle-icon sidebar-group-toggle-icon-open" x-show="groupOpen" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 12L12 8L4 8L8 12Z" fill="currentColor" />
+    </svg>
+    <svg class="sidebar-group-toggle-icon sidebar-group-toggle-icon-closed" x-show="! groupOpen" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 8L8 12L8 4L12 8Z" fill="currentColor" />
+    </svg>
+</button>                                    </header>
+                <ul class="sidebar-group-items ml-4 px-2 mb-2" role="list"  x-show="groupOpen" >
+                                            <li class="sidebar-item -ml-4 pl-4 active -ml-8 pl-8 bg-black/5 dark:bg-black/10" role="listitem">
+            <a href="../docs/my-guitars" aria-current="true" class="-ml-8 pl-4 py-1 px-2 block text-indigo-600 dark:text-indigo-400 dark:font-medium border-l-[0.325rem] border-indigo-500 transition-colors duration-300 ease-in-out hover:bg-black/10">
+            My guitars
+        </a>
+
+                    <span class="sr-only">Table of contents</span>
+            
+            </li>                                    </ul>
             </li>
             </ul>
     </nav>
@@ -122,54 +136,10 @@
         <article id="document" itemscope itemtype="https://schema.org/Article" class="mx-auto lg:ml-8 max-w-3xl p-12 md:px-16 max-w-[1000px] min-h-[calc(100vh_-_4rem)] prose dark:prose-invert">
     
     <header id="document-header" class="flex items-center flex-wrap justify-between prose-h1:mb-3">
-        <h1>Keyboard Progress</h1>
+        <h1>My Guitars</h1>
     </header>
     <section id="document-main-content" itemprop="articleBody">
-        <p><img src="../../media/2016-02/01.jpg" alt="Keyboard progress: fig 01" title="Keyboard progress: fig 01" />
-This is a prototype of my custom keyboard, the Katana. What you see here is two 3D printed plastic plates, with a cardboard structure. The layout is symmetrical, with a rotation to accommodate the natural shape of the human (read: my) hand, and the center is tilted upwards for both plates.</p>
-<p><img src="../../media/2016-02/02.jpg" alt="Keyboard progress: fig 02" title="Keyboard progress: fig 02" />
-<img src="../../media/2016-02/03.jpg" alt="Keyboard progress: fig 03" title="Keyboard progress: fig 03" />
-<img src="../../media/2016-02/04.jpg" alt="Keyboard progress: fig 04" title="Keyboard progress: fig 04" />
-My main motivation is to create a better MSNE4K (Microsoft Natural Ergonomic Keyboard 4000). Many of the angles chosen were based on the shape of this keyboard.</p>
-<p>This is an early protoype, constructed out of cardboard.</p>
-<p><img src="../../media/2016-02/05.jpg" alt="Keyboard progress: fig 05" title="Keyboard progress: fig 05" />
-This picture, from <a href="http://www.trulyergonomic.com">www.trulyergonomic.com</a>, illustrates why I believe a symmetrical layout is an ergonomically better design choice.</p>
-<p>I could have opted for an ortholinear grid layout (as well as the rotation) but I'm very pleased with the right hand layout of the MSNE4K, and my goal was to 'fix' the left hand reverse stagger - a major design flaw in commercial keyboards in my opinion.</p>
-<p><img src="../../media/2016-02/06.jpg" alt="Keyboard progress: fig 06" title="Keyboard progress: fig 06" />
-This idea was based on the textblade, which borrows ideas from the spacefn layout. This is still a work in progress - though I've got two psuedo-spacefn layers working...</p>
-<p><img src="../../media/2016-02/07.jpg" alt="Keyboard progress: fig 07" title="Keyboard progress: fig 07" />
-Design a plate using openscad. This is for an initial 3D printed prototype.</p>
-<p><img src="../../media/2016-02/08.jpg" alt="Keyboard progress: fig 08" title="Keyboard progress: fig 08" />
-3D printers make this whole process possible. And damned easy.</p>
-<p><img src="../../media/2016-02/09.jpg" alt="Keyboard progress: fig 09" title="Keyboard progress: fig 09" />
-The finished plate, plain and simple</p>
-<p><img src="../../media/2016-02/10.jpg" alt="Keyboard progress: fig 10" title="Keyboard progress: fig 10" />
-With switches and keys. Still a few things that need tweaking.</p>
-<p><img src="../../media/2016-02/11.jpg" alt="Keyboard progress: fig 11" title="Keyboard progress: fig 11" />
-Used a permanent marker to blank the keys out.</p>
-<p><img src="../../media/2016-02/12.jpg" alt="Keyboard progress: fig 12" title="Keyboard progress: fig 12" />
-Just wanted to check how it types. The MSNE4K keyboard, with mechanical switches - what's not to like?</p>
-<p><img src="../../media/2016-02/13.jpg" alt="Keyboard progress: fig 13" title="Keyboard progress: fig 13" />
-Looks great, but doesn't work yet.</p>
-<p><img src="../../media/2016-02/14.jpg" alt="Keyboard progress: fig 14" title="Keyboard progress: fig 14" />
-Somebody actually has to wire this thing up before it works. Doh!</p>
-<p><img src="../../media/2016-02/15.jpg" alt="Keyboard progress: fig 15" title="Keyboard progress: fig 15" />
-That took ages. Need a tea break before starting the opposite side.</p>
-<p><img src="../../media/2016-02/16.jpg" alt="Keyboard progress: fig 16" title="Keyboard progress: fig 16" />
-Simple cardboard stand that accommodates the microcontroller and raises the plates.</p>
-<p><img src="../../media/2016-02/17.jpg" alt="Keyboard progress: fig 17" title="Keyboard progress: fig 17" />
-I just need to get the firmware side working. Pushing reset once its all cased up will be hard, so getting a reset button on a function layer is a must.</p>
-<p>A big thanks to the many people on the #mechboards irc channel, particularly j`ey, for support during that process.</p>
-<p><img src="../../media/2016-02/18.jpg" alt="Keyboard progress: fig 18" title="Keyboard progress: fig 18" />
-Aaaaand ready to play!</p>
-<p><img src="../../media/2016-02/19.jpg" alt="Keyboard progress: fig 19" title="Keyboard progress: fig 19" />
-<img src="../../media/2016-02/20.jpg" alt="Keyboard progress: fig 20" title="Keyboard progress: fig 20" />
-Its a little messy, but it's just a prototype...</p>
-<p><img src="../../media/2016-02/21.jpg" alt="Keyboard progress: fig 21" title="Keyboard progress: fig 21" />
-<img src="../../media/2016-02/22.jpg" alt="Keyboard progress: fig 22" title="Keyboard progress: fig 22" />
-I'd like to work on the aesthetics before printing a final top plate (and encasing), but I figure I could make a big aesthetic improvement just by resizing some of the outer keys.</p>
-<p>I also need (really badly want) to make a wrist rest for the keyboard, as I can't keep using kiwis.</p>
-<p>I'd also like to build PCBs, and even explore the suggestion of making it foldable - that's entirely possible right now, but I'd need to improve the durability of the encasing.</p>
+        <p>Coming soon...</p>
     </section>
     <footer id="document-footer" class="flex items-center flex-wrap mt-8 prose-p:my-3 justify-between text-[90%]">
         
