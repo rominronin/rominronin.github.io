@@ -5,6 +5,8 @@ category: keyboards
 author: rominronin
 date: "2016-02-18 00:00"
 ---
+<sub>Originally posted on [imgur.com](https://imgur.com/gallery/Wpy9j), recreated here for archiving purposes.</sub>
+
 # Keyboard Progress
 ![Keyboard progress: fig 01](../../media/2016-02/01.jpg "Keyboard progress: fig 01")
 This is a prototype of my custom keyboard, the Katana. What you see here is two 3D printed plastic plates, with a cardboard structure. The layout is symmetrical, with a rotation to accommodate the natural shape of the human (read: my) hand, and the center is tilted upwards for both plates.
