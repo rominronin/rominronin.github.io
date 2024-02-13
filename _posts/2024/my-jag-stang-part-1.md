@@ -1,6 +1,5 @@
 ---
 title: 'My Jag-Stang: Part 1'
-description: 'A short description used in previews and SEO'
 category: blog
 author: rominronin
 date: '2024-02-12 18:45'

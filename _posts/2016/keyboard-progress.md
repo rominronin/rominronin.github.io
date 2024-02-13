@@ -1,6 +1,6 @@
 ---
 title: "Keyboard Progress"
-description: ''
+description: 'The build log of the original Katana keyboard, the project that spawned the Katana60'
 category: keyboards
 author: rominronin
 date: "2016-02-18 00:00"
