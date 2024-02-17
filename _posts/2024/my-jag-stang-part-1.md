@@ -6,8 +6,8 @@ date: '2024-02-12 18:45'
 image:
   source: '2024/02/jag-stang-part-1.jpg'
   author: 'rominronin'
-  titleText: 'Header image depicting  my Fender Jag-Stang'
-  altText: 'Header image depicting  my Fender Jag-Stang'
+  titleText: 'Header image depicting my Fender Jag-Stang'
+  altText: 'Header image depicting my Fender Jag-Stang'
 ---
 
 I got this guitar somewhere around the early 2000s. I was late to the nirvana shockwave that was still making its way around there music world, but when it hit me I was all in, so I had to have a Jag-Stang.
