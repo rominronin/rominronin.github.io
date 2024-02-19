@@ -38,7 +38,7 @@ return [
     |
     */
 
-    'name' => env('SITE_NAME', 'rominronin'),
+    'name' => env('SITE_NAME', 'rominronin.net'),
 
     /*
     |--------------------------------------------------------------------------
@@ -53,7 +53,7 @@ return [
     |
     */
 
-    'url' => env('SITE_URL', 'http://localhost'),
+    'url' => env('SITE_URL', 'http://rominronin.net'),
 
     /*
     |--------------------------------------------------------------------------
@@ -216,12 +216,12 @@ return [
     */
 
     'meta' => [
-        // Meta::name('author', 'Mr. Hyde'),
+         Meta::name('author', 'rominronin aka Baris Tosun'),
         // Meta::name('twitter:creator', '@HydeFramework'),
-        // Meta::name('description', 'My Hyde Blog'),
-        // Meta::name('keywords', 'Static Sites, Blogs, Documentation'),
+         Meta::name('description', "The home of rominronin's various projects"),
+         Meta::name('keywords', 'Projects, Music, Guitars, Keyboards, Build logs, Audio engineering, Blogs, Documentation'),
         Meta::name('generator', 'HydePHP v'.Hyde\Hyde::version()),
-        Meta::property('site_name', env('SITE_NAME', 'HydePHP')),
+        Meta::property('site_name', env('SITE_NAME', 'rominronin.net')),
     ],
 
     /*
