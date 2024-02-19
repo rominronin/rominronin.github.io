@@ -7,9 +7,9 @@ date: '2024-02-15 20:45'
 image:
   source: '2024/02/bottoming-out.jpg'
   author: 'rominronin'
-  titleText: 'Close up image of my Katana60 keyboard, with Matias Clicky switches, with a bonus ergo clear thrown in 
+  titleText: 'Close up image of my Katana60 keyboard, with Matias Clicky switches, with a bonus ergo clear thrown in
   for good measure'
-  altText: 'Close up image of my Katana60 keyboard, with Matias Clicky switches, with a bonus ergo clear thrown in 
+  altText: 'Close up image of my Katana60 keyboard, with Matias Clicky switches, with a bonus ergo clear thrown in
   for good measure'
 ---
 

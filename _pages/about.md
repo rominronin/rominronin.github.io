@@ -13,5 +13,5 @@ I am Baris Tosun.
 - I'm a professional web developer with a Drupal focus.
 - I am a father of two (soon to be three!)
 - I am a guitarist, self-taught musician and producer of music
-- I am a keyboard enthusiast (I also like music keyboards, but here I'm talking about the input device type), and I 
+- I am a keyboard enthusiast (I also like music keyboards, but here I'm talking about the input device type), and I
   have built numerous custom keyboards and released the popular Katana60 PCB/layout.
