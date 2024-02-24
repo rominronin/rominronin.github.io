@@ -21,7 +21,7 @@ jobs:
     # Steps represent a sequence of tasks that will be executed as part of the job
     steps:
       # Checks-out your repository under $GITHUB_WORKSPACE, so the job can access it
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.1
  
       # (optional) Validate the Composer files to catch any errors early on
       - name: Validate composer.json and composer.lock
@@ -57,7 +57,7 @@ jobs:
     needs: build # Run the build job first, otherwise we won't have anything to deploy
    
     steps:
-      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4.1.1
         with:
           ref: 'gh-pages' # Checkout the gh-pages branch
    
@@ -67,7 +67,7 @@ jobs:
    
       # Download the compiled site into the current directory
       - name: Download site artifact
-        uses: actions/download-artifact@v4
+        uses: actions/download-artifact@v4.1.2
         with:
           name: site
           path: '.'
