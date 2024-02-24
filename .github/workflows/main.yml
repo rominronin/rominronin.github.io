@@ -78,7 +78,7 @@ jobs:
    
       # Create a CNAME file to debug the custom domain reset issues
       - name: Create CNAME
-        run: echo "rominronin.net" > _site/CNAME
+        run: echo "rominronin.net" > site/CNAME
    
       # Commit the changes to the gh-pages branch
       - name: Commit changes
