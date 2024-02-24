@@ -76,6 +76,10 @@ jobs:
       - name: Create .nojekyll file
         run: touch .nojekyll
    
+      # Create a CNAME file to debug the custom domain reset issues
+      - name: Create CNAME
+        run: echo "rominronin.net" > _site/CNAME
+   
       # Commit the changes to the gh-pages branch
       - name: Commit changes
         uses: EndBug/add-and-commit@v9
