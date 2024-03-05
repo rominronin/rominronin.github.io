@@ -15,12 +15,12 @@ pre-production period and recently I added the FR4 plates to the project, provid
 Here's what's needed to complete the projects: 
 
 - One more prototype to test the recently added standoffs. These are intended to provide consistent separation between the plate and PCB, which is useful when taking advantage of the hotswap capability. 
-- Update the QMK firmware repo. I want to add firmware for these boards to the repo, so they're flash-able from day one.
-- Update the VIA firmware repo. I also want the board to be auto-detected in VIA, without the need of a custom JSON file.
+- Update the [QMK firmware repo](https://github.com/qmk/qmk_firmware). I want to add firmware for these boards to the repo, so they're flash-able from day one.
+- Update the [VIA firmware repo](https://github.com/the-via/firmware). I also want the board to be auto-detected in VIA, without the need of a custom JSON file.
 - I'm updating this very website with information for buyers of the keyboards, like a 'getting started' guide (or documentation).
 
 ## 2. Franken-Jag-Stang
-This guitar needs several hours more work before I'm anywhere near happy with it. To be honest, it probably needs a new neck too!:
+[This guitar](https://rominronin.net/posts/2024/my-jag-stang-part-3) needs several hours more work before I'm anywhere near happy with it. To be honest, it probably needs a new neck too!:
 
 - New pick-guard - there are no compatible pick-guards, so I need to make a custom one.
 - Vintage neck pickup (single coil) and Vintage bridge (humbucker) pickup.
@@ -32,12 +32,14 @@ I really enjoy this guitar. I need to post a build log of the bridge mod I did (
 Mustang bridge - yes I had to route it!). After a lifetime of chasing a tonal balance between the neck and bridge, I
 stumbled upon my favourite combination yet. I'll save the details for the build log.
 
-Here's what need to be done still:
+Here's what is still to be done:
 
-- Mount conversion bushels for the vintage style tuners (to better fit in the modern hole).
+- Add conversion bushels for the vintage style tuners (to better fit the modern-sized tuner hole).
 - I'd like to independently control the tone for each pickup, so I need at least one additional tone pot. If the Franken-Jag-Stang roller pots mod goes well, I could use on here too.
 
 That's basically it. The first mod is a sort of requirement, the second is optional really. I love the way this looks,
 feels and of course, sounds.
 
 This is what I have in mind for now, I could see this being a regular post type, so watch out for more updates like this one.
+
+<sub>edit: added links, updated some wording.</sub>
