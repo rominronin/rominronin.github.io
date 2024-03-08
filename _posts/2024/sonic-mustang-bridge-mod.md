@@ -15,7 +15,8 @@ image:
 
 TLDR: I routed the body of my Squier Sonic Mustang and fitted a [Mustang Tremolo Tailpiece](https://warmoth.com/mt1c) from [Warmoth](https://warmoth.com/)
 
-I bought a Sonic Mustang because I wanted a cheap maple neck that was compatible with my Bullet Mustang and my Jag-Stang...
+I initially bought this Sonic Mustang because I wanted a cheap maple neck that was compatible with my Bullet Mustang and
+my Jag-Stang, after this mod I've fallen in love with the guitar!
 
 I've had a thing for maple necks for a while, which is alright if you're a Fender Tele or Strat kinda player, but I
 like the shorter scale (24") Mustang guitars from Fender and Squier, and those guitars simply don't have ready made
@@ -24,24 +25,26 @@ maple necks for sale - you have to get a custom one made.
 ![Sonic Mustang - Bride Mod: fig 2](../../media/2024/02/sonic-mustang-bridge-mod-2.jpeg "Sonic Mustang: Bridge Mod, fig 2")
 
 So when the Sonic Mustang range was announced, I was immediately drawn to this model. The attractive 160 Euro price tag
-compares favourably against the 300 odd cost of a custom neck. plus you get a guitar with it, and less risk of buyers'
-remorse.
+compares favourably against the 300 odd cost of a custom neck, plus you get a guitar with it, and less risk of buyers'
+remorse ;)
 
 ![Sonic Mustang - Bride Mod: fig 3](../../media/2024/02/sonic-mustang-bridge-mod-3.jpeg "Sonic Mustang: Bridge Mod, fig 3")
 
-Here's a close of the guitar before the bridge mod, at this stage I already swapped the pickups:
-- a Roswell LAF in the bridge position
-- and that's the original neck pickup from my Jag-Stang, that pickup has travelled far and wide, maybe I'll tell that story in a post one day
+Here's a close up of the guitar before the bridge mod, at this stage I had already swapped the pickups:
+- a Roswell LAF in the bridge position - not to be underestimated, the most satisfied I've been with a humbucker, and my other guitar has a JB
+- this is the original neck pickup from my Jag-Stang, that pickup has travelled far and wide, maybe I'll tell that story in a post one day
 
-Honestly, this pickup combo is my favourite after years of tinkering.
+Honestly, this pickup combo is my favourite after years of looking for good balance between neck and bridge positions. 
 
 ## Bridge posts
 ![Sonic Mustang - Bride Mod: fig 4](../../media/2024/02/sonic-mustang-bridge-mod-4.jpeg "Sonic Mustang: Bridge Mod, fig 4")
 
-I ordered the parts from a European seller called [Custom Guitar World Parts](https://www.customworldguitarparts.com/),
+I ordered the bridge and thimbles from a European seller called [Custom Guitar World Parts](https://www.customworldguitarparts.com/),
 and got started with my test fits. My original plan was to route the bridge post holes with a plunge router, but the
 advice I got from the luthier community was to use a drill press - which I didn't have, nor did I have the time to find
 one.
+
+I already had the Warmoth Mustang Tremolo Tailpiece on a shelf - I originally ordered it just to get the tremolo arm!
 
 ![Sonic Mustang - Bride Mod: fig 5](../../media/2024/02/sonic-mustang-bridge-mod-5.jpeg "Sonic Mustang: Bridge Mod, fig 5")
 
@@ -91,17 +94,19 @@ project in particular, although I expect I'll be doing more guitar related woodw
 
 ![Sonic Mustang - Bride Mod: fig 10](../../media/2024/02/sonic-mustang-bridge-mod-10.jpeg "Sonic Mustang: Bridge Mod, fig 10")
 
-I was **really** happy with the early result, so much so that I basically jumped straight in to the actual body.
+I was **really** happy with the early result, so much so that I basically jumped straight in to routing the actual body.
 
 ![Sonic Mustang - Bride Mod: fig 11](../../media/2024/02/sonic-mustang-bridge-mod-11.jpeg "Sonic Mustang: Bridge Mod, fig 11")
 
 With more time (and patience), and certainly if I were doing this more often, I would prepare a template to guide the
-router. As I was excitable and impatient, I did the first 2-3 passes by hand-eye coordination alone (all those year of
+router.
+
+As I was excitable and impatient, I did the first 2-3 passes by hand-eye coordination alone (all those year of
 playing video games have certainly proved useful in my adult life).
 
 ![Sonic Mustang - Bride Mod: fig 12](../../media/2024/02/sonic-mustang-bridge-mod-12.jpeg "Sonic Mustang: Bridge Mod, fig 12")
 
-At that point I had enough depth for  the flush trim bit to catch, and the remaining passes were over pretty quickly.
+After 2-3 passes, I had enough depth for the flush trim bit to catch, the remaining passes were over pretty quickly.
 
 Another item for list of things I would do differently: buy a workshop hoover - I connect my handheld Bosch hoover to
 the router, which worked very well, but I'm pretty sure I've killed the filters in doing so!
@@ -111,13 +116,14 @@ Just a note for those considering this mod for their own Squier guitars: As long
 spring assembly depth, you should have enough space for the procedure.
 
 The risk is *not* that you will somehow accidentally go too deep and bore a hole on the other side - any decent router
-is a very precision tool as far as routing depth goes.
+will have very precise depth control.
 
-The risk is if you accidentally knock the reverse side of the guitar with a pointed implement exactly where the channel
-is, you might create a hole.
+There is a risk of creating a hole if you knock the guitar on the reverse side in the exact place where the channels are.
+Rather than a dent in the finish, you might get a hole instead.
 
-For me, I think the risk is vanishingly small, and the consequence of the hole is also insignificant, if that resonates
-with you then don't hesitate
+For me, I think the risk is small, and the consequence of such a hole is also insignificant (because it's on the reverse
+side, of course) - also, I definitely believe that knocks and dinks add character, and don't try to avoid them too much
+(as evidenced by some of these pictures!). If that resonates with you then don't hesitate: just do it...
 
 But do make sure you measure up carefully!
 
