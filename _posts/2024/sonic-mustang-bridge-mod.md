@@ -3,7 +3,7 @@ title: 'Squier Sonic Mustang - Dynamic Vibrato bridge and tail piece mod'
 description: 'A short description used in previews and SEO'
 category: build-log
 author: rominronin
-date: '2024-03-05 20:25'
+date: '2024-03-08 07:55'
 image:
   source: '2024/02/sonic-mustang-bridge-mod-1.jpeg'
   author: 'rominronin'
@@ -34,7 +34,7 @@ Here's a close up of the guitar before the bridge mod, at this stage I had alrea
 - a Roswell LAF in the bridge position - not to be underestimated, the most satisfied I've been with a humbucker, and my other guitar has a JB
 - this is the original neck pickup from my Jag-Stang, that pickup has travelled far and wide, maybe I'll tell that story in a post one day
 
-Honestly, this pickup combo is my favourite after years of looking for good balance between neck and bridge positions. 
+Honestly, this pickup combo is my favourite after years of looking for good balance between neck and bridge positions.
 
 ## Bridge posts
 ![Sonic Mustang - Bride Mod: fig 4](../../media/2024/02/sonic-mustang-bridge-mod-4.jpeg "Sonic Mustang: Bridge Mod, fig 4")
@@ -63,7 +63,7 @@ happen if you don't hold the drill with a firm grip). The thimble is not 100% pe
 string tension will keep it from moving (spoiler alert: the guitar is stable after this mod).
 
 *A small note about accuracy: I took care to drill straight down at the points I measured for the bridge posts, but there
-is some room for error - the bridge and guitar will still work if you are a little bit off. If you are worried however, 
+is some room for error - the bridge and guitar will still work if you are a little bit off. If you are worried however,
 I would recommend spending more time on the testing phase than I did - I have a steady hand and am no beginner with
 woodwork (I'm far from a pro as well).*
 
@@ -143,7 +143,7 @@ all the metal filings (with tape).
 
 The pickup sounds excellent! I want to get another one for my Franken-Jag-Stang build, but annoyingly, Fender doesn't
 document the pickup from that model very well, the best guess is that it's a 'vintage strat' pickup, which is as helpful
-as asking a chef for pasta (Fender sells three different 'pure vintage' sets and three 'vintage-style' sets for Strats). 
+as asking a chef for pasta (Fender sells three different 'pure vintage' sets and three 'vintage-style' sets for Strats).
 
 ![Sonic Mustang - Bride Mod: fig 15](../../media/2024/02/sonic-mustang-bridge-mod-15.jpeg "Sonic Mustang: Bridge Mod, fig 15")
 
@@ -161,9 +161,9 @@ This guitar is even *more* stable. I can really work that vibrato and it returns
 both directions with the same result. The fact that I installed it myself just adds to the feeling of elation that that
 gives me!
 
-You've probably heard that these bridge/vibrato assemblies can be super stable when correctly set up, I'm definitely 
+You've probably heard that these bridge/vibrato assemblies can be super stable when correctly set up, I'm definitely
 someone who echos that sentiment. Maybe I should post a video or article on how I do it, since I'll admit it's not as
-straightforward as with, say, the Strat vibrato. 
+straightforward as with, say, the Strat vibrato.
 
 ![Sonic Mustang - Bride Mod: fig 17](../../media/2024/02/sonic-mustang-bridge-mod-17.jpeg "Sonic Mustang: Bridge Mod, fig 17")
 
