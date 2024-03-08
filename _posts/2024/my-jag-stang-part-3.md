@@ -4,7 +4,7 @@ category: build-log
 author: rominronin
 date: '2024-02-19 16:02'
 image:
-  source: '2024/02/my-jag-stang-part-3-01.jpeg'
+  source: '2024/02/my-jag-stang-part-3-25.jpeg'
   author: 'rominronin'
   titleText: 'Header image depicting my Rosser Jag-Stang body'
   altText: 'Header image depicting my Rosser Jag-Stang body'
@@ -88,28 +88,28 @@ The neck now fits beautifully, although there was initially a little misalignmen
 ![Franken-Jag-Stang: fig 20](../../media/2024/02/my-jag-stang-part-3-20.jpeg "Franken-Jag-Stang: fig 20")
 Another quick test fit This time to test the alignment of the various parts before drilling pilot holes for the screws.
 
-I was expecting to have to customise the pickguard, this is where I realised it was a certainty (I had hoped that 
+I was expecting to have to customise the pickguard, this is where I realised it was a certainty (I had hoped that
 the alignment would have magically been perfect, you can't *always* get what you want!).
 
 ![Franken-Jag-Stang: fig 21](../../media/2024/02/my-jag-stang-part-3-21.jpeg "Franken-Jag-Stang: fig 21")
-Here's a close up of the gap between the control plate and the pickguard. I actually like how the body follows the 
-control plate, so once I get around to making a custom pickguard, I'll try to match this distance from the edges, 
+Here's a close up of the gap between the control plate and the pickguard. I actually like how the body follows the
+control plate, so once I get around to making a custom pickguard, I'll try to match this distance from the edges,
 and hopefully it'll look sh*t hot!
 
-I had to move the pickguard around a bit to get that alignment with the bridge/tailpiece plate, and the control 
+I had to move the pickguard around a bit to get that alignment with the bridge/tailpiece plate, and the control
 plate too. I made sure to leave a little space around the pots so it doesn't require a super tight fit.
 
 ![Franken-Jag-Stang: fig 22](../../media/2024/02/my-jag-stang-part-3-22.jpeg "Franken-Jag-Stang: fig 22")
-I stood back to admire how well that red tortoise guard matches the light yellow finish. I hadn't really thought 
+I stood back to admire how well that red tortoise guard matches the light yellow finish. I hadn't really thought
 about the aesthetics much until now - beyond waiting until Rosser auctioned a body I liked the look of.
 
-It looks really nice in person. I think I'm leaning towards a new mint pickguard... 
+It looks really nice in person. I think I'm leaning towards a new mint pickguard...
 
 ![Franken-Jag-Stang: fig 23](../../media/2024/02/my-jag-stang-part-3-23.jpeg "Franken-Jag-Stang: fig 23")
-Here you can see the misalignment of the neck more closely. After this initial inspection I took it apart and had 
-another go at that neck pocket, it's a better alignment now. I think too that it'll be a better alignment in general 
-with a correct bridge - this one has a 55mm string spacing though 52-53mm is better for the Fender short scale (24") 
-guitars. 
+Here you can see the misalignment of the neck more closely. After this initial inspection I took it apart and had
+another go at that neck pocket, it's a better alignment now. I think too that it'll be a better alignment in general
+with a correct bridge - this one has a 55mm string spacing though 52-53mm is better for the Fender short scale (24")
+guitars.
 
 
 ![Franken-Jag-Stang: fig 24](../../media/2024/02/my-jag-stang-part-3-24.jpeg "Franken-Jag-Stang: fig 24")
@@ -118,9 +118,9 @@ Another shot before I realigned it...
 ![Franken-Jag-Stang: fig 25](../../media/2024/02/my-jag-stang-part-3-25.jpeg "Franken-Jag-Stang: fig 25")
 And another shot before I realigned it...
 
-An interesting observation was about how the guitar sounds. This is an Alder body, and my Jag-Stang has a Basswood 
-body. Unplugged, that guitar sounded very mid-forward, this one seems to have more bottom end. It's a subtle 
-difference, but I assure you I've played that instrument for the better part of 20 years and I can feel a 
+An interesting observation was about how the guitar sounds. This is an Alder body, and my Jag-Stang has a Basswood
+body. Unplugged, that guitar sounded very mid-forward, this one seems to have more bottom end. It's a subtle
+difference, but I assure you I've played that instrument for the better part of 20 years and I can feel a
 difference.
 
 Obviously, plugged in through an amp is a different story.
