@@ -147,25 +147,29 @@ as asking a chef for pasta (Fender sells three different 'pure vintage' sets and
 
 ![Sonic Mustang - Bride Mod: fig 15](../../media/2024/02/sonic-mustang-bridge-mod-15.jpeg "Sonic Mustang: Bridge Mod, fig 15")
 
-The final look is CLEAN. I've always liked the look and sound of the Fender Dynamic Vibrato and bridge assembly, but I
-think I prefer the Warmoth Mustang Tremolo Tailpiece, the lack of the branding, that wide mirrored surface - it looks 
-*so clean*.
+The final look is clean. I've always liked the look and sound of the Fender Dynamic Vibrato and bridge assembly, but I
+think I prefer the Warmoth Mustang Tremolo Tailpiece, the lack of the branding, that wide mirrored surface - *it's
+SO CLEAN*.
 
 ## Final thoughts
 ![Sonic Mustang - Bride Mod: fig 16](../../media/2024/02/sonic-mustang-bridge-mod-16.jpeg "Sonic Mustang: Bridge Mod, fig 16")
 
-A few weeks prior to modding this guitar, I reversed the hard tail mod I had had done on my Jag-Stang, because I wanted
-to have a working vibrato on it.
+Prior to modding this guitar, I reversed the hard tail mod on my Jag-Stang, because I wanted to have a working vibrato on it.
 
-It took me a long time to get that tailpiece and bridge working and stable, this guitar however is even *more* stable.
-I can really work that vibrato and it returns to tune every single time. The fact that I installed it myself just adds
-to the feeling of elation that that gives me!
+It took me a long time to get that tailpiece and bridge working and stable, and it was only really stable on the down bend.
+This guitar is even *more* stable. I can really work that vibrato and it returns to tune every single time. I can go in
+both directions with the same result. The fact that I installed it myself just adds to the feeling of elation that that
+gives me!
+
+You've probably heard that these bridge/vibrato assemblies can be super stable when correctly set up, I'm definitely 
+someone who echos that sentiment. Maybe I should post a video or article on how I do it, since I'll admit it's not as
+straightforward as with, say, the Strat vibrato. 
 
 ![Sonic Mustang - Bride Mod: fig 17](../../media/2024/02/sonic-mustang-bridge-mod-17.jpeg "Sonic Mustang: Bridge Mod, fig 17")
 
 ![Sonic Mustang - Bride Mod: fig 18](../../media/2024/02/sonic-mustang-bridge-mod-18.jpeg "Sonic Mustang: Bridge Mod, fig 18")
 
-The family picture, more on these guitars in future posts.
+The family picture, more on these guitars in future posts, no doubt.
 
 Thanks to anyone who made it this far!
 
