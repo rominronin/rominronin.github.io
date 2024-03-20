@@ -38,7 +38,7 @@ return [
     |
     */
 
-    'name' => env('SITE_NAME', 'rominronin.net'),
+    'name' => 'rominronin.net',
 
     /*
     |--------------------------------------------------------------------------
@@ -116,7 +116,7 @@ return [
         'filename' => 'feed.xml',
 
         // The channel description.
-        'description' => env('SITE_NAME', 'HydePHP').' RSS Feed',
+        'description' => 'rominronin.net RSS Feed',
     ],
 
     /*
@@ -221,7 +221,7 @@ return [
          Meta::name('description', "The home of rominronin's various projects"),
          Meta::name('keywords', 'Projects, Music, Guitars, Keyboards, Build logs, Audio engineering, Blogs, Documentation'),
         Meta::name('generator', 'HydePHP v'.Hyde\Hyde::version()),
-        Meta::property('site_name', env('SITE_NAME', 'rominronin.net')),
+        Meta::property('site_name', 'rominronin.net'),
     ],
 
     /*
