@@ -1,4 +1,4 @@
-name: Build and Deploy HydePHP Site
+name: build-and-deploy-rominronin
 
 on: [push]
 
