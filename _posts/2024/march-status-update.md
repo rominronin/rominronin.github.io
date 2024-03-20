@@ -6,15 +6,15 @@ date: '2024-03-02 20:34'
 ---
 
 The last month has been incredibly busy at work. I have also had minimal time to indulge in my hobbies. Nevertheless I
-have brought some things forward, but I wanted to write an update on where I am with various things and what's left to 
+have brought some things forward, but I wanted to write an update on where I am with various things and what's left to
 do.
 
 ## 1. Katana60 Pro and Tsuka60 Pro
 These keyboards are the best boards I have produced to date. They have been incrementally improved over a long
 pre-production period and recently I added the FR4 plates to the project, providing a budget option for getting started.
-Here's what's needed to complete the projects: 
+Here's what's needed to complete the projects:
 
-- One more prototype to test the recently added standoffs. These are intended to provide consistent separation between the plate and PCB, which is useful when taking advantage of the hotswap capability. 
+- One more prototype to test the recently added standoffs. These are intended to provide consistent separation between the plate and PCB, which is useful when taking advantage of the hotswap capability.
 - Update the [QMK firmware repo](https://github.com/qmk/qmk_firmware). I want to add firmware for these boards to the repo, so they're flash-able from day one.
 - Update the [VIA firmware repo](https://github.com/the-via/firmware). I also want the board to be auto-detected in VIA, without the need of a custom JSON file.
 - I'm updating this very website with information for buyers of the keyboards, like a 'getting started' guide (or documentation).
