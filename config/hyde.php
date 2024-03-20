@@ -53,7 +53,7 @@ return [
     |
     */
 
-    'url' => env('SITE_URL', 'http://rominronin.net'),
+    'url' => env('SITE_URL', 'https://rominronin.net'),
 
     /*
     |--------------------------------------------------------------------------
@@ -226,6 +226,23 @@ return [
 
     /*
     |--------------------------------------------------------------------------
+    | Custom head and script HTML hooks
+    |--------------------------------------------------------------------------
+    |
+    | While the best way to add custom `<head>` and `<body>` code is to use the
+    | Blade components, you can also add them here. This is useful for adding
+    | scripts like analytics codes, chat widgets, or even custom styles.
+    |
+    */
+
+    // Add any extra HTML to include in the <head> tag
+    'head' => '',
+
+    // Add any extra HTML to include before the closing <body> tag
+    'scripts' => '',
+
+    /*
+    |--------------------------------------------------------------------------
     | Features
     |--------------------------------------------------------------------------
     |
@@ -271,7 +288,7 @@ return [
       Author::create(
         'rominronin', // Required username
         'Baris Tosun', // Optional display name
-        'https://rominronin.github.io' // Optional website URL
+        'https://rominronin.net' // Optional website URL
       ),
     ],
 
@@ -446,6 +463,10 @@ return [
     |
     */
 
+    // Change the file extensions to be considered as media files and are copied to the output directory.
+    // If you want to add more extensions, add it to the empty merge array, or just override the entire array.
+    'media_extensions' => array_merge([], \Hyde\Support\Filesystem\MediaFile::EXTENSIONS),
+
     // The list of directories that are considered to be safe to empty upon site build.
     // If the site output directory is set to a directory that is not in this list,
     // the build command will prompt for confirmation before emptying it.
@@ -458,7 +479,7 @@ return [
     'build_manifest_path' => 'app/storage/framework/cache/build-manifest.json',
 
     // Here you can specify HydeFront version and URL for when loading app.css from the CDN.
-    // Only change these if you know what you're doing as some versions may incompatible with your Hyde version.
+    // Only change these if you know what you're doing as some versions may be incompatible with your Hyde version.
     'hydefront_version' => \Hyde\Framework\Services\AssetService::HYDEFRONT_VERSION,
     'hydefront_cdn_url' => \Hyde\Framework\Services\AssetService::HYDEFRONT_CDN_URL,
 
