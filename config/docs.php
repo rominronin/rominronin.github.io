@@ -133,5 +133,5 @@ return [
     |
     */
 
-    'flattened_output_paths' => true,
+    'flattened_output_paths' => false,
 ];
