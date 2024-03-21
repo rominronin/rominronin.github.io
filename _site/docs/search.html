@@ -16,17 +16,17 @@
 
 
 
-<link rel="canonical" href="http://rominronin.net/docs/search">
+<link rel="canonical" href="https://rominronin.net/docs/search">
 <meta name="twitter:title" content="rominronin.net - Search">
 <meta property="og:title" content="rominronin.net - Search">
 
 
-<link rel="sitemap" href="http://rominronin.net/sitemap.xml" type="application/xml" title="Sitemap">
-<link rel="alternate" href="http://rominronin.net/feed.xml" type="application/rss+xml" title="HydePHP RSS Feed">
+<link rel="sitemap" href="https://rominronin.net/sitemap.xml" type="application/xml" title="Sitemap">
+<link rel="alternate" href="https://rominronin.net/feed.xml" type="application/rss+xml" title="rominronin.net RSS Feed">
 <meta name="author" content="rominronin aka Baris Tosun">
 <meta name="description" content="The home of rominronin&#039;s various projects">
 <meta name="keywords" content="Projects, Music, Guitars, Keyboards, Build logs, Audio engineering, Blogs, Documentation">
-<meta name="generator" content="HydePHP v1.4.2">
+<meta name="generator" content="HydePHP v1.5.0">
 <meta property="og:site_name" content="rominronin.net">
 
 
@@ -44,6 +44,10 @@
     
     <meta id="meta-color-scheme" name="color-scheme" content="light">
     <script>if (localStorage.getItem('color-theme') === 'dark' || (!('color-theme' in localStorage) && window.matchMedia('(prefers-color-scheme: dark)').matches)) { document.documentElement.classList.add('dark'); document.getElementById('meta-color-scheme').setAttribute('content', 'dark');} else { document.documentElement.classList.remove('dark') } </script>
+
+
+
+
 </head>
 <body id="hyde-docs" class="bg-white dark:bg-gray-900 dark:text-white min-h-screen w-screen relative overflow-x-hidden overflow-y-auto"
       x-data="{ sidebarOpen: false, searchWindowOpen: false }" x-on:keydown.escape="searchWindowOpen = false; sidebarOpen = false" x-on:keydown.slash="searchWindowOpen = true">
@@ -51,7 +55,7 @@
     <a href="#content" id="skip-to-content" class="sr-only focus:not-sr-only bg-black border-4 border-yellow-400 focus:absolute focus:mt-2 focus:mx-auto focus:p-2 focus:w-64 h-auto left-0 overflow-auto right-0 rounded-md text-center text-lg text-white top-auto z-50 ">Skip to content</a>    <nav id="mobile-navigation" class="bg-white dark:bg-gray-800 md:hidden flex justify-between w-full h-16 z-40 fixed left-0 top-0 p-4 leading-8 shadow-lg">
     <strong class="px-2 mr-auto">
                     <a href="../docs/">
-                HydePHP Docs
+                rominronin.net Docs
             </a>
             </strong>
     <ul class="flex items-center">
@@ -75,7 +79,7 @@
         <div id="sidebar-brand" class="flex items-center justify-between h-16 py-4 px-2">
     <strong class="px-2">
                     <a href="../docs/">
-                HydePHP Docs
+                rominronin.net Docs
             </a>
             </strong>
     <button @click="toggleTheme" class="theme-toggle-button flex items-center px-2 py-1 hover:text-gray-700 dark:text-gray-200 opacity-75 hover:opacity-100" title="Toggle theme">
@@ -99,7 +103,25 @@
 </button>                                    </header>
                 <ul class="sidebar-group-items ml-4 px-2 mb-2" role="list"  x-show="groupOpen" >
                                             <li class="sidebar-item -ml-4 pl-4" role="listitem">
-            <a href="../docs/Compatibility" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
+            <a href="../docs/katana60-pro/introduction" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
+            introduction
+        </a>
+    </li>                                    </ul>
+            </li>
+                    <li class="sidebar-group" role="listitem"  x-data="{ groupOpen: false }" >
+                <header class="sidebar-group-header p-2 px-4 -ml-2 flex justify-between items-center  group hover:bg-black/10 "  @click="groupOpen = ! groupOpen" >
+                    <h4 class="sidebar-group-heading text-base font-semibold  cursor-pointer dark:group-hover:text-white ">Tsuka60 Pro</h4>
+                                            <button class="sidebar-group-toggle opacity-50 group-hover:opacity-100">
+    <svg class="sidebar-group-toggle-icon sidebar-group-toggle-icon-open" x-show="groupOpen" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M8 12L12 8L4 8L8 12Z" fill="currentColor" />
+    </svg>
+    <svg class="sidebar-group-toggle-icon sidebar-group-toggle-icon-closed" x-show="! groupOpen" width="16" height="16" viewBox="0 0 16 16" fill="none" xmlns="http://www.w3.org/2000/svg">
+        <path d="M12 8L8 12L8 4L12 8Z" fill="currentColor" />
+    </svg>
+</button>                                    </header>
+                <ul class="sidebar-group-items ml-4 px-2 mb-2" role="list"  x-show="groupOpen" >
+                                            <li class="sidebar-item -ml-4 pl-4" role="listitem">
+            <a href="../docs/tsuka60-pro/introduction" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
             introduction
         </a>
     </li>                                    </ul>
@@ -224,6 +246,10 @@
         }
     }
 </script>
+
+
+
+
 
 
 </body>
