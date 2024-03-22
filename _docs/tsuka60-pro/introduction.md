@@ -4,6 +4,8 @@ navigation:
     label: "introduction"
     hidden: false
 ---
+Work in progress
+
 ## Introduction
 The Tsuka60 was my attempt at improving the layout of the Katana60. The following design priorities were considered in it's development:
 - Better keycap compatibility, particularly with row-correct keycaps

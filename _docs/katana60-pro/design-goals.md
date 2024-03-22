@@ -1,5 +1,5 @@
 ---
-title: "Katana60 Pro - introduction"
+title: "Katana60 Pro - design goals"
 navigation:
     label: "introduction"
     hidden: false

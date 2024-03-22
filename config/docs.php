@@ -53,9 +53,9 @@ return [
     */
 
     'sidebar_order' => [
-        'readme',
-        'installation',
-        'getting-started',
+        'katana60',
+        'katana60-pro',
+        'tsuka60-pro',
     ],
 
     /*
