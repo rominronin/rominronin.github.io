@@ -25,3 +25,9 @@ I consider the right hand typing experience of that keyboard to be the most comf
 During the prototyping stage I tried a flat (single plane - the MSN4k is a tented split design) variation of the layout
 and realised that the symmetry alone was already an improvement on 'legacy' keyboard layouts. This triggered my exploration
 on [keyboard layout editor](http://www.keyboard-layout-editor.com/) of the design, which eventually ended up as the first Katana60 layouts.
+
+## History
+- The first Keyboard Progress post [recreated here](https://rominronin.net/posts/2016/keyboard-progress) was posted in 2016
+- The original interest check posts on [geekhack](https://geekhack.org/index.php?topic=88719) and [deskthority](https://deskthority.net/viewtopic.php?f=7&t=16287) were posted in 2017
+- The follow up post for what became the revision 2 Katana60 [is linked here](https://geekhack.org/index.php?topic=100468.0)
+
