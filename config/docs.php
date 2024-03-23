@@ -53,9 +53,7 @@ return [
     */
 
     'sidebar_order' => [
-        'katana60',
-        'katana60-pro',
-        'tsuka60-pro',
+        'docs/katana60/introduction',
     ],
 
     /*

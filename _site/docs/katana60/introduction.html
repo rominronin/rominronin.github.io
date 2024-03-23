@@ -12,13 +12,13 @@
 </script>
 <meta charset="utf-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>rominronin.net - Documentation</title>
+<title>rominronin.net - Katana60 - introduction</title>
 
 
 
-<link rel="canonical" href="https://rominronin.net/docs">
-<meta name="twitter:title" content="rominronin.net - Documentation">
-<meta property="og:title" content="rominronin.net - Documentation">
+<link rel="canonical" href="https://rominronin.net/docs/katana60/introduction">
+<meta name="twitter:title" content="rominronin.net - Katana60 - introduction">
+<meta property="og:title" content="rominronin.net - Katana60 - introduction">
 
 
 <link rel="sitemap" href="https://rominronin.net/sitemap.xml" type="application/xml" title="Sitemap">
@@ -35,7 +35,7 @@
 <style>[x-cloak] {display: none!important}</style>
 
 
-    <link rel="stylesheet" href="../media/app.css?v=617b1fb3e60cb0ef34f7ceb6f0503fa1">
+    <link rel="stylesheet" href="../../media/app.css?v=617b1fb3e60cb0ef34f7ceb6f0503fa1">
 
 
 
@@ -54,7 +54,7 @@
 
     <a href="#content" id="skip-to-content" class="sr-only focus:not-sr-only bg-black border-4 border-yellow-400 focus:absolute focus:mt-2 focus:mx-auto focus:p-2 focus:w-64 h-auto left-0 overflow-auto right-0 rounded-md text-center text-lg text-white top-auto z-50 ">Skip to content</a>    <nav id="mobile-navigation" class="bg-white dark:bg-gray-800 md:hidden flex justify-between w-full h-16 z-40 fixed left-0 top-0 p-4 leading-8 shadow-lg">
     <strong class="px-2 mr-auto">
-                    <a href="../docs/">
+                    <a href="../../docs/">
                 rominronin.net Docs
             </a>
             </strong>
@@ -78,7 +78,7 @@
     <header id="sidebar-header" class="h-16">
         <div id="sidebar-brand" class="flex items-center justify-between h-16 py-4 px-2">
     <strong class="px-2">
-                    <a href="../docs/">
+                    <a href="../../docs/">
                 rominronin.net Docs
             </a>
             </strong>
@@ -102,11 +102,25 @@
     </svg>
 </button>                                    </header>
                 <ul class="sidebar-group-items ml-4 px-2 mb-2" role="list"  x-show="groupOpen" >
-                                            <li class="sidebar-item -ml-4 pl-4" role="listitem">
-            <a href="../docs/katana60/introduction" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
+                                            <li class="sidebar-item -ml-4 pl-4 active -ml-8 pl-8 bg-black/5 dark:bg-black/10" role="listitem">
+            <a href="../../docs/katana60/introduction" aria-current="true" class="-ml-8 pl-4 py-1 px-2 block text-indigo-600 dark:text-indigo-400 dark:font-medium border-l-[0.325rem] border-indigo-500 transition-colors duration-300 ease-in-out hover:bg-black/10">
             introduction
         </a>
-    </li>                                    </ul>
+
+                    <span class="sr-only">Table of contents</span>
+            <ul class="table-of-contents">
+<li>
+<a href="#introduction">Introduction</a>
+</li>
+<li>
+<a href="#design-goals">Design goals</a>
+</li>
+<li>
+<a href="#inspiration">Inspiration</a>
+</li>
+</ul>
+
+            </li>                                    </ul>
             </li>
                     <li class="sidebar-group" role="listitem"  x-data="{ groupOpen: false }" >
                 <header class="sidebar-group-header p-2 px-4 -ml-2 flex justify-between items-center  group hover:bg-black/10 "  @click="groupOpen = ! groupOpen" >
@@ -121,7 +135,7 @@
 </button>                                    </header>
                 <ul class="sidebar-group-items ml-4 px-2 mb-2" role="list"  x-show="groupOpen" >
                                             <li class="sidebar-item -ml-4 pl-4" role="listitem">
-            <a href="../docs/katana60-pro/design-goals" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
+            <a href="../../docs/katana60-pro/design-goals" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
             introduction
         </a>
     </li>                                    </ul>
@@ -139,7 +153,7 @@
 </button>                                    </header>
                 <ul class="sidebar-group-items ml-4 px-2 mb-2" role="list"  x-show="groupOpen" >
                                             <li class="sidebar-item -ml-4 pl-4" role="listitem">
-            <a href="../docs/tsuka60-pro/introduction" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
+            <a href="../../docs/tsuka60-pro/introduction" class="-ml-8 pl-4 py-1 px-2 block border-l-[0.325rem] border-transparent transition-colors duration-300 ease-in-out hover:bg-black/10">
             introduction
         </a>
     </li>                                    </ul>
@@ -148,23 +162,34 @@
     </nav>
             <footer id="sidebar-footer" class="h-16 p-4 w-full bottom-0 left-0 text-center leading-8">
             <p>
-            <a href="../">Back to home page</a>
+            <a href="../../">Back to home page</a>
     </p>        </footer>
     </aside>
     <main id="content" class="dark:bg-gray-900 min-h-screen bg-gray-50 md:bg-white absolute top-16 md:top-0 w-screen md:left-64 md:w-[calc(100vw_-_16rem)]">
         <article id="document" itemscope itemtype="https://schema.org/Article" class="mx-auto lg:ml-8 max-w-3xl p-12 md:px-16 max-w-[1000px] min-h-[calc(100vh_-_4rem)] prose dark:prose-invert">
     
     <header id="document-header" class="flex items-center flex-wrap justify-between prose-h1:mb-3">
-        <h1>Documentation</h1>
+        
     </header>
     <section id="document-main-content" itemprop="articleBody">
-        <p>Here you can find information, links and resources related to my various projects. The topics are organised
-by category in the sidebar.</p>
-<h2>Documentation status:<a id="documentation-status" href="#documentation-status" class="heading-permalink" aria-hidden="true" title="Permalink">#</a></h2>
+        <p>Work in progress</p>
+<h2>Introduction<a id="introduction" href="#introduction" class="heading-permalink" aria-hidden="true" title="Permalink">#</a></h2>
+<p>The Katana60 is a symmetrical* row staggered keyboard layout designed to fit in a universal 60% tray mount case (like the GH60).</p>
+<p>*<em>Symmetrical refers to the alphanumerical keys, many of the optional bottom rows are not symmetrical.</em></p>
+<h2>Design goals<a id="design-goals" href="#design-goals" class="heading-permalink" aria-hidden="true" title="Permalink">#</a></h2>
+<p>The design goals for the original Katana60 were as follows:</p>
 <ul>
-<li>Katana60 Pro - work in progress</li>
-<li>Tsuka60 Pro - work in progress</li>
+<li>Compatibility with 'universal' 60% tray mount keyboard cases</li>
+<li>It should be possible to cover the entire keyboard with one standard 105 key ANSI keyset, this was a budget motivated choice.</li>
+<li>ALPS switch compatibility</li>
+<li>QMK firmware support</li>
 </ul>
+<h2>Inspiration<a id="inspiration" href="#inspiration" class="heading-permalink" aria-hidden="true" title="Permalink">#</a></h2>
+<p>The Katana60 was an offshoot design that came about when I was tackling my original goal of reproducing an improved 'Microsoft Natural Ergonomic Keyboard 4000'.
+I consider the right hand typing experience of that keyboard to be the most comfortable I've experienced, so I wanted to mirror the feel on the left side.</p>
+<p>During the prototyping stage I tried a flat (single plane - the MSN4k is a tented split design) variation of the layout
+and realised that the symmetry alone was already an improvement on 'legacy' keyboard layouts. This triggered my exploration
+on <a href="http://www.keyboard-layout-editor.com/">keyboard layout editor</a> of the design, which eventually ended up as the first Katana60 layouts.</p>
     </section>
     <footer id="document-footer" class="flex items-center flex-wrap mt-8 prose-p:my-3 justify-between text-[90%]">
         
@@ -232,14 +257,14 @@ by category in the sidebar.</p>
 </div>            <script src="https://cdn.jsdelivr.net/npm/hydesearch@0.2.1/dist/HydeSearch.min.js" defer></script>
 <script>
     window.addEventListener('load', function () {
-        const searchIndexLocation = '../docs/search.json';
+        const searchIndexLocation = '../../docs/search.json';
         const Search = new HydeSearch(searchIndexLocation);
 
         Search.init();
     });
 </script>            </div>
 
-    <script defer src="../media/app.js?v=e48d72ca2a30e91f72c667b8ce8ae10f"></script>
+    <script defer src="../../media/app.js?v=e48d72ca2a30e91f72c667b8ce8ae10f"></script>
 
 
 <script defer src="https://cdn.jsdelivr.net/npm/alpinejs@3.10.3/dist/cdn.min.js" integrity="sha256-gOkV4d9/FmMNEkjOzVlyM2eNAWSUXisT+1RbMTTIgXI=" crossorigin="anonymous"></script>
